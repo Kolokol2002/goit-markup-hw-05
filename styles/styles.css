@@ -585,7 +585,7 @@ p {
 }
 
 .portfolio-card:hover .card-overlay,
-.portfolio-card:focus {
+.portfolio-card:focus .card-overlay{
     transform: translateY(0);
 }
 
